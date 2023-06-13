@@ -1,7 +1,7 @@
 
 # React router login signup
 
-A website which perforn signup and login.
+A website which performs signup and login.
 
 
 ## Feathers
